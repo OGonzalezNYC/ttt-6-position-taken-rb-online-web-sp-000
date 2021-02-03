@@ -4,3 +4,6 @@
 #   board[index] == "X" || board[index] == "O"
 # end
 
+def position_taken?
+  
+end
